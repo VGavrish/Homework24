@@ -1,0 +1,4 @@
+FILE: C:\Users\VGavrish\IdeaProjects\Java-Pro\src\main\java\HomeWork9\FileForTest.txt
+LEVEL: DEBUG
+MAX-SIZE: 20
+FORMAT: [%s][%s] %s
